@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Jiancheng Pan](https://kinshingpoon.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KINSHINGP?style=social)](https://twitter.com/KINSHINGP)
 [![GitHub followers](https://img.shields.io/github/followers/kinshingpoon?label=Follow&style=social)](https://github.com/kinshingpoon/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-jianchengpan7@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jianchengpan7@gmail.com)](mailto:jianchengpan7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jiancheng.pan.cv@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jianchengpan7@gmail.com)](mailto:jianchengpan7@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/kinshingpoon)](https://t.me/kinshingpoon)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jianchengpan/)](https://www.linkedin.com/in/jianchengpan/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@kinshingpoon)](https://medium.com/@kinshingpoon)
