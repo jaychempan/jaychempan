@@ -1,7 +1,7 @@
 # 👨🏻‍💻 [Jiancheng Pan](https://kinshingpoon.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KINSHINGP?style=social)](https://twitter.com/KINSHINGP)
 [![GitHub followers](https://img.shields.io/github/followers/kinshingpoon?label=Follow&style=social)](https://github.com/kinshingpoon/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-jiancheng.pan.cv@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jiancheng.pan.cv@gmail.com)](mailto:jiancheng.pan.cv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jiancheng.pan.cv@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jiancheng.pan.plus@gmail.com)](mailto:jiancheng.pan.plus@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/kinshingpoon)](https://t.me/kinshingpoon)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jianchengpan/)](https://www.linkedin.com/in/jianchengpan/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@kinshingpoon)](https://medium.com/@kinshingpoon)
@@ -19,7 +19,7 @@
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China.
 - 💬 My research interests include computer vision and multimedia processing (Vision and Language, Multi-Modal Learning).
-- 📫 Email me at: jiancheng.pan.cv@gmail.com
+- 📫 Email me at: jiancheng.pan.plus@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
 - 👯 For more about me, click here: [jianchengpan.com](https://www.jianchengpan.com)
 <!-- - 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf) -->
