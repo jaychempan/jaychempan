@@ -16,34 +16,20 @@
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
 
 
-
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
-- 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
+- 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China.
 - 💬 My research interests include computer vision and multimedia processing (Vision and Language, Multi-Modal Learning).
 - 📫 Email me at: jiancheng.pan.cv@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
 - 👯 For more about me, click here: [jianchengpan.com](https://www.jianchengpan.com)
 <!-- - 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf) -->
 
-### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kinshingpoon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinshingpoon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" /> -->
 <!-- <a href="https://info.flagcounter.com/qprM"><img src="https://s11.flagcounter.com/count2/qprM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline) -->
 
 
-<!--
-**kinshingpoon/kinshingpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
