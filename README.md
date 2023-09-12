@@ -12,7 +12,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=kinshingpoon&color=red&style=flat)](https://komarev.com/ghpvc/?username=kinshingpoon)
 [![Location](https://img.shields.io/badge/Location-Hangzhou_%26_Beijing-green?logo=googlemaps&logoColor=green
 )]()
-
+<!-- 
 ### 🧐 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- [![](https://img.shields.io/badge/Connect-Twitter-0077b5)](https://twitter.com/KINSHINGP)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
@@ -33,5 +33,5 @@
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline) -->
 
-
+-->
 
