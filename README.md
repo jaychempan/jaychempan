@@ -13,17 +13,19 @@
 [![Location](https://img.shields.io/badge/Location-Hangzhou_%26_Beijing-green?logo=googlemaps&logoColor=green
 )]()
 <!-- 
-### 🧐 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🧐 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <!-- [![](https://img.shields.io/badge/Connect-Twitter-0077b5)](https://twitter.com/KINSHINGP)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
 
 
+<!--
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China.
 - 💬 My research interests include computer vision and multimedia processing (Vision and Language, Multi-Modal Learning).
 - 📫 Email me at: jiancheng.pan.plus@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
-- 👯 For more about me, click here: [jianchengpan.com](https://www.jianchengpan.com)
+- 👯 For more about me, click here: [jianchengpan.com](https://www.jianchengpan.com) -->
+
 <!-- - 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf) -->
 
 <!-- ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
@@ -33,5 +35,5 @@
 
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline) -->
 
--->
+
 
