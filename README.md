@@ -12,7 +12,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=jaychempan&color=red&style=flat&base=2000)]()
 [![Location](https://img.shields.io/badge/Location-Hangzhou_%26_Beijing-green?logo=googlemaps&logoColor=green
 )]()
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjaychempan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=travisci.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
