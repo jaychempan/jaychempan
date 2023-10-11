@@ -9,7 +9,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/361903c2-4a07-4e88-bff7-5798a5b26765.svg)](https://wakatime.com/@kinshingpoon)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkinshingpoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/kinshingpoon/)
-[![ProfileViews](https://komarev.com/ghpvc/?username=jaychempan&color=red&style=flat&base=2000)]()
+
 [![Location](https://img.shields.io/badge/Location-Hangzhou_%26_Beijing-green?logo=googlemaps&logoColor=green
 )]()
 [![Homepage Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjaychempan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=travisci.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
