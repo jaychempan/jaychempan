@@ -1,1 +1,1 @@
-Hi, I am Jiancheng Pan. My research interests [**Keywords**] include but are not limited to Multimodal Learning, Data-centric AI, Foundation Model with its application on Earth Observation [**GeoAI**], towards constructing Earth Observation Foundation Models [**EOFMs**]. I am also dedicated to tackling challenges in Earth sciences through machine learning, with a particular emphasis on solving socially relevant problems, such as advancing sustainability [**ML4Sustainability**][**AI4Earth**].
+
