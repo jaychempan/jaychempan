@@ -1,1 +1,1 @@
-Hi, I am Jiancheng Pan (潘建成). I'm working on multimodal learning, data-centric AI, and foundation models, with their applications in Earth Observation, also dedicated to tackling challenges in Earth sciences through machine learning.
+Hi, I am Jiancheng Pan. I'm working on multimodal learning, data-centric AI, and foundation models, with their applications in Earth Observation, also dedicated to tackling challenges in Earth sciences through machine learning.
