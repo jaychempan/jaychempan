@@ -6,7 +6,7 @@
   <p>
     I am a researcher with a passion for <strong>Multimodal Learning</strong>, 
     <strong>Data-centric AI</strong>, and <strong>Foundation Models</strong>. 
-    My work focuses on advancing <strong>Multi-modal LLMs</strong> for applications in <strong>Earth Observation (GeoAI)</strong> 🌍. 
+    My recent work focuses on advancing <strong>Multi-modal LLMs</strong> for applications in <strong>Earth Observation (GeoAI)</strong> 🌍. 
     I'm also dedicated to leveraging machine learning to address challenges in <strong>Earth Sciences</strong> and promote <strong>Sustainable Development</strong> 🌱. 
     <br><br>
     Explore more about my work on <a href="https://jianchengpan.space/" target="_blank">my personal website</a> 🚀.
