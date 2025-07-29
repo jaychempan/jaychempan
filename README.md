@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jianchengpan.space/" target="_blank">
-    <img src="./assets/jaychempan.png" alt="点击跳转" width="800" />
+    <img src="./assets/jaychempan.png" alt="点击跳转" width="1000" />
   </a>
   <h2>Hi, I'm Jiancheng Pan 👋</h2>
   <p>
