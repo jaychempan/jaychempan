@@ -4,8 +4,7 @@
   </a>
   <h2>Hi, I'm Jiancheng Pan 👋</h2>
   <p>
-    I am a researcher with a passion for <strong>Multimodal Learning</strong>, 
-    <strong>Data-centric AI</strong>, and <strong>Foundation Models</strong>. 
+    I am a researcher with a passion for <strong>Multimodal Learning</strong>, <strong>Data-centric AI</strong>, and <strong>Foundation Models</strong>. 
     My recent work focuses on advancing <strong>Multi-modal LLMs</strong> for applications in <strong>Earth Observation (GeoAI)</strong> 🌍. 
     I'm also dedicated to leveraging machine learning to address challenges in <strong>Earth Sciences</strong> and promote <strong>Sustainable Development</strong> 🌱. 
     <br><br>
