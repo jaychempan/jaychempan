@@ -13,7 +13,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
       <b>LAE-DINO</b>
-      </a><br>
+      </a> | 
       Foundation Open-Vocabulary Object Detector for Remote Sensing Community
     </td>
   </tr>
@@ -25,7 +25,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
     <td>
       <a href="https://github.com/jaychempan/EarthSynth" target="_blank">
       <b>EarthSynth</b>
-      </a><br>
+      </a> | 
       Generative Foundation Model for Remote Sensing Task-Oriented Synthesis
     </td>
   </tr>
@@ -37,7 +37,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
       <b>V²-SAM</b>
-      </a><br>
+      </a> | 
       Unified Cross-View Object Correspondence Model
     </td>
   </tr>
@@ -49,7 +49,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
     <td>
       <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
       <b>CCF DDL Tracker</b>
-      </a><br>
+      </a> | 
       A Lightweight Chrome Extension for Tracking CCF Deadlines
     </td>
   </tr>
