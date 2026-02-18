@@ -3,43 +3,37 @@
 <h3>🚀 Selected Projects</h3>
 
 <table>
-  <tr>
-    <td width="90">
-      <img src="assets/lae-dino.png" width="56">
-    </td>
-    <td>
-      <b>LAE-DINO</b><br>
-      Foundation Open-Vocabulary Object Detector for Remote Sensing Community
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td>
-      <img src="assets/earthsy-logo.png" width="96">
-    </td>
-    <td>
-      <b>EarthSynth</b><br>
-      Generative Foundation Model for Remote Sensing Task-Oriented Synthesis
-    </td>
-  </tr>
+<td align="center" valign="top">
+<img src="assets/lae-dino.png" width="56"><br>
+<b>LAE-DINO</b><br>
+Foundation Open-Vocabulary Object Detector<br>
+for Remote Sensing Community
+</td>
 
-  <tr>
-    <td>
-      <img src="assets/v2sam-logo.png" width="96">
-    </td>
-    <td>
-      <b>V²-SAM</b><br>
-      Unified Cross-View Object Correspondence Model
-    </td>
-  </tr>
+<td align="center" valign="top">
+<img src="assets/earthsy-logo.png" width="56"><br>
+<b>EarthSynth</b><br>
+Generative Foundation Model<br>
+for Remote Sensing Task-Oriented Synthesis
+</td>
 
-  <tr>
-    <td>
-      <img src="assets/ccf-ddl-tracker-logo.png" width="96">
-    </td>
-    <td>
-      <b>CCF DDL Tracker</b><br>
-      A Lightweight Chrome Extension for Tracking CCF Deadlines
-    </td>
-  </tr>
+<td align="center" valign="top">
+<img src="assets/v2sam-logo.png" width="56"><br>
+<b>V²-SAM</b><br>
+Unified Cross-View Object<br>
+Correspondence Model
+</td>
+
+<td align="center" valign="top">
+<img src="assets/ccf-ddl-tracker-logo.png" width="56"><br>
+<b>CCF DDL Tracker</b><br>
+A Lightweight Chrome Extension<br>
+for Tracking CCF Deadlines
+</td>
+
+</tr>
 </table>
+
+
