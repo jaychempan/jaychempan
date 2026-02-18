@@ -54,7 +54,7 @@
       <img src="assets/v2sam-logo.png" width="96" align="center">
     </td>
     <td>
-      <!-- <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat"> -->
+      <img src="https://img.shields.io/badge/🌟%20waiting...%20-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
@@ -69,12 +69,13 @@
       <img src="assets/ccf-ddl-tracker-logo.png" width="96" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br>
+      <img src="https://img.shields.io/badge/🌟%208.7k%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
       <b>CCF DDL Tracker</b>
-      </a> | 
+      </a> (From CCFDDL®) | 
       A Lightweight Chrome Extension for Tracking CCF Deadlines
     </td>
   </tr>
