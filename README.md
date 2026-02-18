@@ -11,6 +11,9 @@
       <img src="assets/lae-dino.png" width="36" align="center">
     </td>
     <td>
+      <img src="https://img.shields.io/badge/🌟%20220%2B%20stars-gold?style=flat">
+    </td>
+    <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
       <b>LAE-DINO</b>
       </a> | 
@@ -21,6 +24,9 @@
   <tr>
     <td>
       <img src="assets/earthsy-logo.png" width="96" align="center">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/EarthSynth" target="_blank">
@@ -35,6 +41,9 @@
       <img src="assets/v2sam-logo.png" width="96" align="center">
     </td>
     <td>
+      <!-- <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat"> -->
+    </td>
+    <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
       <b>V²-SAM</b>
       </a> | 
@@ -45,6 +54,9 @@
   <tr>
     <td>
       <img src="assets/ccf-ddl-tracker-logo.png" width="96" align="center">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
