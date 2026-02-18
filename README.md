@@ -15,12 +15,25 @@
     </td>
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
-      <b>LAE-DINO</b>
-      </a> | 
+      <b>LAE-DINO</b> 
+      </a> (AAAI'25) | 
       Foundation Open-Vocabulary Object Detector for Remote Sensing Community
     </td>
   </tr>
-
+  <tr>
+    <td width="70" align="center">
+      <img src="assets/ets-logo.png" width="36" align="center">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/ETS" target="_blank">
+      <b>ETS</b> 
+      </a> (CVPRW'25) | 
+      Augmentation-Search Strategy for Cross-Domain Few-Shot Object Detection
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="assets/earthsy-logo.png" width="96" align="center">
