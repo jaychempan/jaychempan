@@ -1,6 +1,14 @@
-[![Email](https://img.shields.io/badge/Email-jiancheng.pan.plus%40gmail.com-red?logo=gmail&logoColor=red&labelColor=white)](mailto:jiancheng.pan.plus@gmail.com) [![Homepage](https://img.shields.io/badge/Homepage-jianchengpan.space-blue?logo=google-chrome&logoColor=white)](https://jianchengpan.space/) [![Follow on GitHub](https://img.shields.io/github/followers/jaychempan?label=Follow%20Me&style=social)](https://github.com/jaychempan) 
+<p align="center">
+    <img src="assets/mylogo.png" alt="Image" width="70">
+</p>
+<div align="center">
+<h1 align="center">Jiancheng Pan</h1>
 
-<div align="left">
+[![Email](https://img.shields.io/badge/Email-jiancheng.pan.plus%40gmail.com-red?logo=gmail&logoColor=red&labelColor=white)](mailto:jiancheng.pan.plus@gmail.com) [![Homepage](https://img.shields.io/badge/Homepage-jianchengpan.space-blue?logo=google-chrome&logoColor=white)](https://jianchengpan.space/) [![Follow on GitHub](https://img.shields.io/github/followers/jaychempan?label=Follow%20Me&style=social)](https://github.com/jaychempan) 
+</div>
+
+
+<div align="center">
 <table>
   <tr>
     <td width="70" align="center">
