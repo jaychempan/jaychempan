@@ -47,7 +47,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
       <img src="assets/ccf-ddl-tracker-logo.png" width="96">
     </td>
     <td>
-      <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
+      <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
       <b>CCF DDL Tracker</b>
       </a><br>
       A Lightweight Chrome Extension for Tracking CCF Deadlines
