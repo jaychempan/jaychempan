@@ -7,8 +7,8 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
 
 <table>
   <tr>
-    <td width="80">
-      <img src="assets/lae-dino.png" width="46">
+    <td width="70">
+      <img src="assets/lae-dino.png" width="36">
     </td>
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
