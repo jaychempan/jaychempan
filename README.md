@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td width="120">
-      <img src="assets/lae-dino.png" width="96">
+    <td width="90">
+      <img src="assets/lae-dino.png" width="56">
     </td>
     <td>
       <b>LAE-DINO</b><br>
