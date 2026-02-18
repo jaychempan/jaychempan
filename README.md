@@ -6,12 +6,11 @@
 
 Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligence Lab, Ant Research. My research focuses on computer vision and multimodal learning, with an emphasis on foundation MLLMs and generative models. I am particularly interested in developing methods that generalize to real-world settings, such as egocentric vision and earth observation, bridging advances in representation learning with practical applications.
 
-<h3>🚀 Selected Projects</h3>
-
+<div align="center">
 <table>
   <tr>
-    <td width="70">
-      <img src="assets/lae-dino.png" width="36">
+    <td width="70" align="center">
+      <img src="assets/lae-dino.png" width="36" align="center">
     </td>
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
@@ -23,7 +22,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
 
   <tr>
     <td>
-      <img src="assets/earthsy-logo.png" width="96">
+      <img src="assets/earthsy-logo.png" width="96" align="center">
     </td>
     <td>
       <a href="https://github.com/jaychempan/EarthSynth" target="_blank">
@@ -35,7 +34,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
 
   <tr>
     <td>
-      <img src="assets/v2sam-logo.png" width="96">
+      <img src="assets/v2sam-logo.png" width="96" align="center">
     </td>
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
@@ -47,7 +46,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
 
   <tr>
     <td>
-      <img src="assets/ccf-ddl-tracker-logo.png" width="96">
+      <img src="assets/ccf-ddl-tracker-logo.png" width="96" align="center">
     </td>
     <td>
       <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
@@ -57,7 +56,7 @@ Hi, I am Jiancheng Pan (潘建成), a Research Intern at Interactive Intelligenc
     </td>
   </tr>
 </table>
-
+</div>
 
 
 
