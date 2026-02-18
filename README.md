@@ -3,37 +3,55 @@
 <h3>🚀 Selected Projects</h3>
 
 <table>
-<tr>
+  <tr>
+    <td width="80">
+      <img src="assets/lae-dino.png" width="46">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
+      <b>LAE-DINO</b>
+      </a><br>
+      Foundation Open-Vocabulary Object Detector for Remote Sensing Community
+    </td>
+  </tr>
 
-<td align="center" valign="top">
-<img src="assets/lae-dino.png" width="56"><br>
-<b>LAE-DINO</b><br>
-Foundation Open-Vocabulary Object Detector<br>
-for Remote Sensing Community
-</td>
+  <tr>
+    <td>
+      <img src="assets/earthsy-logo.png" width="96">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/EarthSynth" target="_blank">
+      <b>EarthSynth</b>
+      </a><br>
+      Generative Foundation Model for Remote Sensing Task-Oriented Synthesis
+    </td>
+  </tr>
 
-<td align="center" valign="top">
-<img src="assets/earthsy-logo.png" width="56"><br>
-<b>EarthSynth</b><br>
-Generative Foundation Model<br>
-for Remote Sensing Task-Oriented Synthesis
-</td>
+  <tr>
+    <td>
+      <img src="assets/v2sam-logo.png" width="96">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
+      <b>V²-SAM</b>
+      </a><br>
+      Unified Cross-View Object Correspondence Model
+    </td>
+  </tr>
 
-<td align="center" valign="top">
-<img src="assets/v2sam-logo.png" width="56"><br>
-<b>V²-SAM</b><br>
-Unified Cross-View Object<br>
-Correspondence Model
-</td>
-
-<td align="center" valign="top">
-<img src="assets/ccf-ddl-tracker-logo.png" width="56"><br>
-<b>CCF DDL Tracker</b><br>
-A Lightweight Chrome Extension<br>
-for Tracking CCF Deadlines
-</td>
-
-</tr>
+  <tr>
+    <td>
+      <img src="assets/ccf-ddl-tracker-logo.png" width="96">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
+      <b>CCF DDL Tracker</b>
+      </a><br>
+      A Lightweight Chrome Extension for Tracking CCF Deadlines
+    </td>
+  </tr>
 </table>
+
+
 
 
