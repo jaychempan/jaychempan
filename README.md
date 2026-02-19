@@ -81,7 +81,7 @@
 
   <tr>
     <td>
-      <img src="assets/v2sam-logo.png" width="96" align="center">
+      <img src="assets/v2sam-logo.png" width="36" align="center">
     </td>
     <td>
       <img src="https://img.shields.io/badge/🌟%20waiting...%20-gold?style=flat">
