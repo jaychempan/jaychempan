@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td width="70" align="center">
-      <img src="assets/ets-logo.png" width="36" align="center">
+      <!-- <img src="assets/ets-logo.png" width="36" align="center"> -->
     </td>
     <td>
       <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat">
