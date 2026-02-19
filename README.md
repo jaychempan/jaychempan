@@ -109,8 +109,39 @@
       A Lightweight Chrome Extension for Tracking CCF Deadlines
     </td>
   </tr>
-</table>
-</div>
 
+  <tr>
+    <td>
+      <img src="assets/awesome.png" width="96" align="center">
+    </td>
+    <td>
+      <!-- <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br> -->
+      <img src="https://img.shields.io/badge/🌟%20330%2B%20stars-gold?style=flat">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/Awesome-LWMs" target="_blank">
+      <b>Awesome-LWMs</b>
+      </a> | 
+      Awesome Large Weather Models
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="assets/awesome.png" width="96" align="center">
+    </td>
+    <td>
+      <!-- <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br> -->
+      <img src="https://img.shields.io/badge/🌟%2066%2B%20stars-gold?style=flat">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/Awesome-RSITR" target="_blank">
+      <b>Awesome-RSITR</b>
+      </a> | 
+      Awesome Remote Sensing Image-Text Retrieval
+    </td>
+  </tr>
+  
+</table>
 
 
