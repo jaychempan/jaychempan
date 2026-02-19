@@ -13,7 +13,21 @@
       <!-- <img src="assets/lae-dino.png" width="36" align="center"> -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2040%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/🌟%2035%2B%20stars-gold?style=flat">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/SWAN" target="_blank">
+      <b>SWAN</b> 
+      </a> (ICMR'23 Oral) | 
+       Remote Sensing Image-text Retrieval Framework
+    </td>
+    </tr>
+    <tr>
+    <td width="70" align="center">
+      <!-- <img src="assets/lae-dino.png" width="36" align="center"> -->
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌟%2046%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/PIR" target="_blank">
@@ -21,6 +35,7 @@
       </a> (MM'23 Oral) | 
        Remote Sensing Image-text Retrieval Framework
     </td>
+    </tr>
   <tr>
     <td width="70" align="center">
       <img src="assets/lae-dino.png" width="36" align="center">
