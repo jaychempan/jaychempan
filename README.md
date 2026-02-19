@@ -19,7 +19,7 @@
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
       <b>LAE-DINO</b> 
       </a> (AAAI'25) | 
-      Foundation Open-Vocabulary Object Detector for Remote Sensing Community
+      Foundation Open-Vocabulary Object Detector for Remote Sensing
     </td>
   </tr>
   <tr>
