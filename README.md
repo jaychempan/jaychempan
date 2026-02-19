@@ -8,6 +8,19 @@
 
 <div align="center">
 <table>
+    <tr>
+    <td width="70" align="center">
+      <!-- <img src="assets/lae-dino.png" width="36" align="center"> -->
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/🌟%2040%2B%20stars-gold?style=flat">
+    </td>
+    <td>
+      <a href="https://github.com/jaychempan/PIR" target="_blank">
+      <b>PIR</b> 
+      </a> (MM'23 Oral) | 
+       Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval
+    </td>
   <tr>
     <td width="70" align="center">
       <img src="assets/lae-dino.png" width="36" align="center">
