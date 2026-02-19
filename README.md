@@ -19,7 +19,7 @@
       <a href="https://github.com/jaychempan/PIR" target="_blank">
       <b>PIR</b> 
       </a> (MM'23 Oral) | 
-       Instruction Representation Framework for Remote Sensing Image-text Retrieval
+       Remote Sensing Image-text Retrieval Framework
     </td>
   <tr>
     <td width="70" align="center">
