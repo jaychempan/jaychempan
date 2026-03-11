@@ -41,7 +41,7 @@
       <img src="assets/lae-dino.png" width="36" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%20220%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/🌟%20230%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
