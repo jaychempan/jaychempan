@@ -84,7 +84,7 @@
       <img src="assets/v2sam-logo.png" width="36" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%20waiting...%20-gold?style=flat">
+      <img src="https://img.shields.io/badge/🌟%2017+stars%20-gold?style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
