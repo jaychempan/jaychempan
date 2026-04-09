@@ -89,7 +89,7 @@
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
       <b>V²-SAM</b>
-      </a> (CVPR'26) | 
+      </a> (CVPR'26 Highlight) | 
       Unified Cross-View Object Correspondence Model
     </td>
   </tr>
