@@ -114,12 +114,12 @@
       <img src="assets/rspaper-logo.png" width="96" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%20XX%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat">
     </td>
     <td>
       <a href="https://rspaper.top/" target="_blank">
       <b>RS Paper Hub</b>
-      </a> (遥感论文社区) | 
+      </a> (遥感论文社) | 
       A Curated Collection of Remote Sensing Papers from arXiv
     </td>
   </tr>
