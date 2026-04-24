@@ -13,7 +13,7 @@
       <!-- <img src="assets/lae-dino.png" width="36" align="center"> -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2035%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/SWAN&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/SWAN" target="_blank">
@@ -27,7 +27,7 @@
       <!-- <img src="assets/lae-dino.png" width="36" align="center"> -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2046%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/PIR&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/PIR" target="_blank">
@@ -41,7 +41,7 @@
       <img src="assets/lae-dino.png" width="36" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%20230%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/LAE-DINO&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/LAE-DINO" target="_blank">
@@ -55,7 +55,7 @@
       <!-- <img src="assets/ets-logo.png" width="36" align="center"> -->
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/ETS&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/ETS" target="_blank">
@@ -69,7 +69,7 @@
       <img src="assets/earthsy-logo.png" width="96" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2050%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/EarthSynth&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/EarthSynth" target="_blank">
@@ -84,7 +84,7 @@
       <img src="assets/v2sam-logo.png" width="36" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2050+stars%20-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/V2-SAM&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/V2-SAM" target="_blank">
@@ -99,7 +99,7 @@
       <img src="assets/ccf-ddl-tracker-logo.png" width="96" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/ccf-ddl-tracker&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat"><br>
       <img src="https://img.shields.io/badge/🌟%208.7k%2B%20stars-gold?style=flat">
     </td>
     <td>
@@ -114,10 +114,10 @@
       <img src="assets/rspaper-logo.png" width="96" align="center">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ML4Sustain/rs-paper-hub&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
-      <a href="https://rspaper.top/" target="_blank">
+      <a href="https://github.com/ML4Sustain/rs-paper-hub/" target="_blank">
       <b>RS Paper Hub</b>
       </a> (遥感论文社) | 
       A Curated Collection of Remote Sensing Papers from arXiv
@@ -130,7 +130,7 @@
     </td>
     <td>
       <!-- <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br> -->
-      <img src="https://img.shields.io/badge/🌟%20330%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/Awesome-LWMs&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/Awesome-LWMs" target="_blank">
@@ -146,7 +146,7 @@
     </td>
     <td>
       <!-- <img src="https://img.shields.io/badge/🌟%2020%2B%20stars-gold?style=flat"><br> -->
-      <img src="https://img.shields.io/badge/🌟%2066%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/Awesome-RSITR&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/Awesome-RSITR" target="_blank">
