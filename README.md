@@ -100,12 +100,12 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/jaychempan/ccf-ddl-tracker&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat"><br>
-      <img src="https://img.shields.io/badge/🌟%208.7k%2B%20stars-gold?style=flat">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/ccfddl/ccf-deadlines&query=$.stargazers_count&label=%F0%9F%8C%9F&suffix=%20stars&color=gold&labelColor=gold&style=flat">
     </td>
     <td>
       <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank">
       <b>CCF DDL Tracker</b>
-      </a> (From CCFDDL®) | 
+      </a> (Also in <a href="https://github.com/jaychempan/ccf-ddl-tracker" target="_blank"><b>CCFDDL </b></a>) | 
       A Lightweight Chrome Extension for Tracking CCF Deadlines
     </td>
   </tr>
